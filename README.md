@@ -95,7 +95,7 @@ Cryptocurrency market data is fetched from the CoinGecko API.
 Clone the repository:
 
 ```bash
-git clone https://github.com/amisha_donga/crypto-price-analyzer.git
+git clone https://github.com/amisha-donga/crypto-price-analyzer.git
 cd crypto-price-analyzer
 
 Install dependencies:
