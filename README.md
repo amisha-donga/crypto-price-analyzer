@@ -65,19 +65,9 @@ This project demonstrates API integration, data processing, and data visualizati
 
 crypto-price-analyzer/
 │
-├── assets/
-│ ├── dashboard1.png
-│ └── dashboard2.png
-│ 
-├── data/
-│ └── bitcoin_prices.csv
-│
-├── src/
-│ ├── fetch.py # Fetch data from API
-│ ├── analyze.py # Data analysis using Pandas
-│ ├── visualize.py # Data visualization
-│ └── dashboard.py # Interactive Streamlit dashboard
-│
+├── assets/ 
+├── data/│
+├── src/│
 ├── requirements.txt
 └── README.md
 
