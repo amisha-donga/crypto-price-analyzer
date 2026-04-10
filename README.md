@@ -173,12 +173,15 @@ It shows:
 
 Recruiters quickly understand your skills.
 
-Technologies highlighted include:
+### Technologies Used
 
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2}  
-- :contentReference[oaicite:3]{index=3} API  
-- Data analysis concepts
+- Python
+- Pandas
+- Requests
+- Streamlit
+- CoinGecko API
+- Data Analysis Concepts
+
 
 ---
 
