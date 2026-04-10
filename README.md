@@ -29,19 +29,6 @@ This project demonstrates API integration, data processing, and data visualizati
 
 ---
 
-## 📂 Project Structure
-
-crypto-price-analyzer/
-│
-├── assets/ 
-├── data/│
-├── src/│
-├── requirements.txt
-└── README.md
-
-
----
-
 ## 📊 Data Source
 
 Cryptocurrency market data is fetched from the CoinGecko API.
