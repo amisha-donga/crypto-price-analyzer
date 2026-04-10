@@ -30,38 +30,6 @@ This project demonstrates API integration, data processing, and data visualizati
 ---
 
 ## 📂 Project Structure
-# 📊 Crypto Price Analyzer & Dashboard
-
-A Python-based cryptocurrency analysis project that fetches real-time market data, performs data analysis, and visualizes price trends through an interactive dashboard.
-
-This project demonstrates API integration, data processing, and data visualization using modern Python tools.
-
----
-
-## 🚀 Features
-
-- Fetch live cryptocurrency data from the CoinGecko API
-- Analyze price statistics (average, maximum, minimum)
-- Calculate price change and percentage change
-- Interactive data visualization
-- Multi-coin selection (Bitcoin, Ethereum, Litecoin)
-- Price alert system
-- Real-time dashboard using Streamlit
-
----
-
-## 🛠 Tech Stack
-
-- Python
-- Pandas
-- Requests
-- Streamlit
-- Matplotlib
-- CoinGecko API
-
----
-
-## 📂 Project Structure
 
 crypto-price-analyzer/
 │
