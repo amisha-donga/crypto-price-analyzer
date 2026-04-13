@@ -106,18 +106,6 @@ Deployment to cloud platforms
 
 ---
 
-# ⭐ Why This README Impresses Recruiters
-
-It shows:
-
-✔ **Project description**  
-✔ **Tech stack**  
-✔ **Project structure**  
-✔ **How to run the project**  
-✔ **Future improvements**
-
-Recruiters quickly understand your skills.
-
 ### Technologies Used
 
 - Python
